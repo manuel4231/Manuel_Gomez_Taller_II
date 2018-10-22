@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Infeccion", "Assembly-CSharp.csproj", "{D0413EEF-1B3C-8287-63D8-301D71E4B32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Infeccion", "Assembly-CSharp-firstpass.csproj", "{97F381FE-4512-FEBE-C075-58857909305F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego Infeccion", "Assembly-CSharp-Editor-firstpass.csproj", "{2515CCCD-A57E-B847-3719-AAFE70833BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0413EEF-1B3C-8287-63D8-301D71E4B32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0413EEF-1B3C-8287-63D8-301D71E4B32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0413EEF-1B3C-8287-63D8-301D71E4B32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0413EEF-1B3C-8287-63D8-301D71E4B32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F381FE-4512-FEBE-C075-58857909305F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F381FE-4512-FEBE-C075-58857909305F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F381FE-4512-FEBE-C075-58857909305F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F381FE-4512-FEBE-C075-58857909305F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2515CCCD-A57E-B847-3719-AAFE70833BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2515CCCD-A57E-B847-3719-AAFE70833BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2515CCCD-A57E-B847-3719-AAFE70833BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2515CCCD-A57E-B847-3719-AAFE70833BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
