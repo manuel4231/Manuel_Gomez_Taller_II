@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Infeccion.unity
-  isLoaded: 1
-  isActive: 1
